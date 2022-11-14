@@ -1,0 +1,54 @@
+.w-2_5 {
+    width: 2.5%;
+}
+
+.w-6 {
+    width: 6%;
+}
+
+.w-7 {
+    width: 7%; 
+}
+
+.w-9 {
+    width: 9%;
+}
+
+.w-9_5 {
+    width: 9.5%;
+}
+
+.w-11 {
+    width: 11%;
+}
+
+.w-22 {
+    width: 22%;
+}
+
+.ps-2vw {
+    padding-left: 2vw;;
+}
+
+#contentTable {
+    width: 98vw;
+    font-size: 3.2vw;
+}
+
+@media (min-width: 576px) {
+    #contentTable {
+        font-size: 17px;
+    }
+}
+
+@media (min-width: 768px) {
+    #contentTable {
+        font-size: 20px;
+    }
+}
+
+@media (min-width: 992px) {
+    #contentTable {
+        font-size: 25px;
+    }
+}

@@ -1,0 +1,7 @@
+https://startbootstrap.com/themes/admin-dashboard -> plantillas dashboard bootsrap
+
+DELETE FROM partido WHERE id  >= 103
+-- DELETE FROM resultado WHERE id  >= 353 
+
+SELECT fecha, grand_slam, fecha_nro, instancia, ganador1, ganador2, perdedor1, perdedor2, set1ganador, set1perdedor, set2ganador, set2perdedor, set3ganador, set3perdedor, set4ganador, set4perdedor, set5ganador, set5perdedor
+

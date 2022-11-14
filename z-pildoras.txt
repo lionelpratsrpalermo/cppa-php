@@ -1,0 +1,16 @@
+Curso PHP Pildoras Informaticas.
+Lo interesante empuieza en el video 36.
+"Conectando la web con la BBDD. Vídeo 36".
+
+https://www.youtube.com/playlist?list=PLU8oAlHdN5BkinrODGXToK9oPAlnJxmW_
+
+VIDEO 36:
+Conexion con BBDD -> 2 formas 
+1- Utilizar instrucciones PHP orientadas a objetos (POO) -> class Mysqli con todas sus propiedades y metodos
+2- Utilizar instrucciones por procedimientos -> class mysqli_connect
+
+VIDEO 44:
+
+function mysqli_affected_rows($conexion_a_la_db) -> nos informa cuantos registros se han visto afectados por una instruccion INSERT INTO, UPDATE o DELETE
+
+VIDEO 46 EN CURSO (MINUTO 4 - muestra update en ddbb) (practicarlo con la vista de edicion de sistema de puntos, en el proyecto cppa_php)
